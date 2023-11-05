@@ -1,4 +1,4 @@
-# Desgin pattern: Prototype (Clone)
+# Design pattern: Prototype (Clone)
 
 I chose this example to get a better understanding of class, instances and inheritance. So far, although it is an interesting subject, my knowledge of Classes is limited.  As I understand it, prototypes provide an alternative for inheritance in subclasses. If implented correctly, it helps to write clean and maintainable code. 
 
@@ -19,7 +19,7 @@ To look this up, you can use the **Object.getPrototypeOf.()** method.
 In existing code, the pattern is recognizable via 'clone' or 'copy' methods.
 
 
-### Code example
+### Code example in TS
 
 ```ts
 
